@@ -12,8 +12,5 @@ This notebook contains a simple and straightforward example of training a neural
 
 ### Other resources in this repository
 
-##### Introduction_to_Keras.mp4
-This video is a recording of a talk from the February 2018 meeting of the ChiPy, the premier Python users group in Chicago.  In this presentation, I introduce the Keras library, walk through the Introduction_to_Keras notebook, and answer some questions from the audience.
-
 ##### Introduction_to_Keras.pptx
-Slides for the ChiPy talk.
+Slides for a talk from the February 2018 meeting of ChiPy, the premier Python users group in Chicago.  A video of the talk is posted online (https://www.youtube.com/watch?v=9bkAzVW2rss).  In this presentation, I introduce the Keras library, walk through the Introduction_to_Keras notebook, and answer some questions from the audience.
