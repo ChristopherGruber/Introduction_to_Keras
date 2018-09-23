@@ -1,4 +1,4 @@
-# Introduction_To_Keras
+# Introduction_to_Keras
 
 This repository is an introduction to the Keras deep learning framework for Python users who do not have experience building neural networks.
 
